@@ -1,6 +1,6 @@
 Stap 01:
 Gebruik je Windows ? DownLoad dan "https://www.microsoft.com/store/productId/9N6SVWS3RX71"
-Gebruik je Ubuntu 20.04 LTS dan kan je deze stap overslaan
+Gebruik je Ubuntu 20.04 LTS dan kan je deze stap overslaan (Begin bij stap03)
 
 stap 02:
 Open Ubuntu 20.04 lts
