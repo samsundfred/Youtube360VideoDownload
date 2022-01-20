@@ -44,6 +44,6 @@ Wacht tot de video gedownload is je hoeft verder niks te doen tot die klaar is
 
 ga naar explorer op je windows
 
-voer dit pad in "C:\Users\JOUNNAAM\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\root"
+voer dit pad in "C:\Users\NAAM\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\root"
 en verander NAAM naar joun gebruikers naam bijvoorbeeld "C:\Users\sam\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\root"
 in die map staat een .mp4 bestand dat is je video
